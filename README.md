@@ -56,45 +56,6 @@ This part involves implementing key RMI components, such as:
 
 ## **Requirements**  
 - **Java Development Kit (JDK)** (version 8 or higher recommended)  
-- **Optional:** Python or C# if adapting to other languages  
-
----
-
-## **How to Run the Project**
-
-### **Part 1: Standard RMI Calendar Server**  
-1. Navigate to the `Part1/` directory.  
-2. Compile the server and client code using:  
-    ```bash  
-    javac *.java  
-    ```  
-3. Start the RMI registry:  
-    ```bash  
-    rmiregistry &  
-    ```  
-4. Run the server:  
-    ```bash  
-    java CalendarServer  
-    ```  
-5. In a separate terminal, run the client:  
-    ```bash  
-    java Client  
-    ```  
-
-### **Part 2: Custom RMI Middleware**  
-1. Navigate to the `Part2/` directory.  
-2. Compile the server and client code:  
-    ```bash  
-    javac *.java  
-    ```  
-3. Run the server:  
-    ```bash  
-    java RMIServer  
-    ```  
-4. In a separate terminal, run the client:  
-    ```bash  
-    java RMIClient  
-    ```
 
 ---
 
