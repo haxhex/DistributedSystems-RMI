@@ -54,27 +54,6 @@ This part involves implementing key RMI components, such as:
 
 ---
 
-## **Project Structure**  
-```
-├── Part1/                   # Implementation of Part 1 (Calendar with standard RMI)
-│   ├── CalendarServer.java  
-│   ├── Client.java  
-│   ├── CalendarInterface.java  
-│   └── ...  
-├── Part2/                   # Implementation of Part 2 (Custom RMI Middleware)  
-│   ├── RMIServer.java  
-│   ├── RMIClient.java  
-│   ├── Stub.java  
-│   ├── Skeleton.java  
-│   ├── RemoteInterface.java  
-│   └── ...  
-├── README.md                # Project documentation  
-├── report.pdf               # Detailed project report with class diagrams  
-└── videos/                  # Demonstration videos for both parts  
-```
-
----
-
 ## **Requirements**  
 - **Java Development Kit (JDK)** (version 8 or higher recommended)  
 - **Optional:** Python or C# if adapting to other languages  
