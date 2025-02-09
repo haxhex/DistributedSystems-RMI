@@ -1,4 +1,3 @@
-```markdown
 # Remote Method Invocation (RMI) Project
 
 This project demonstrates the implementation of a distributed object system using Remote Method Invocation (RMI). It consists of two main parts:
@@ -132,14 +131,3 @@ This part involves implementing key RMI components, such as:
 - The custom RMI implementation demonstrates how remote method calls can be abstracted as local method calls.  
 - The project highlights strengths in modularity and extensibility but acknowledges limitations in handling complex object types in Part 2.  
 - Suggestions for future improvements include better support for object serialization and optimized network handling.
-
----
-
-## **Author**  
-Developed as part of a hands-on exercise to explore distributed computing concepts and RMI systems.
-
----
-
-## **License**  
-This project is licensed under the [MIT License](LICENSE).
-```
